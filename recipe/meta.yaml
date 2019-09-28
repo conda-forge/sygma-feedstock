@@ -36,7 +36,7 @@ about:
   license_family: GPL
   license_file: LICENSE
   summary: 'SyGMa is a python library for the systematic generation of potential metabolites.'
-  doc_url: https://sygma.readthedocs.io/
+  doc_url: https://sygma.readthedocs.io
   dev_url: https://github.com/3D-e-Chem/sygma
 
 extra:
